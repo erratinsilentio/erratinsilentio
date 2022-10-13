@@ -1,16 +1,14 @@
 
 ## 🚀 About Me
-&nbsp;I'm a beginner full stack developer, I study using The Odin Project curriculum and other external sources. My goal is to create apps that help with mental health and personal development.
-
-
-
+&nbsp;I'm a beginner full stack developer, I study using The Odin Project and Full Stack Open, as well as other external sources. My goal is to create apps that help with mental health and personal development. And of course to have fun!
 
 
 
 ## 🛠 Skills
 Javascript, HTML, CSS
 
-Stuff I plan to learn: SCSS, React, Node.js, Typescript, and many more...
+Currently learning: React, Node.js
+Stuff I plan to learn: Typescript, Sass, Next.js, Three.js, and probably many more.
 
 
 
