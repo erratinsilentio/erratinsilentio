@@ -15,7 +15,7 @@ Stuff I plan to learn: Typescript, Sass, Next.js, Three.js, and probably many mo
 ## 👁 Plans
 Projects I plan on making:
 
-1. eCommerce app with React and GraphQL   <in_progress>
+1. eCommerce app with React and GraphQL => <in_progress>
 2. Chat app with React, Node and MongoDB
 3. Job Scraper with Next.js
 4. Self Love reminder with React Native
