@@ -8,6 +8,7 @@
 Javascript, HTML, CSS
 
 Currently learning: React, Node.js, Next.js, Typescript
+
 Stuff I plan to learn: Sass, Three.js, GSAP, Redux
 
 
