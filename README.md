@@ -7,15 +7,15 @@
 ## 🛠 Skills
 Javascript, HTML, CSS
 
-Currently learning: React, Node.js
-Stuff I plan to learn: Typescript, Sass, Next.js, Three.js, and probably many more.
+Currently learning: React, Node.js, Next.js, Typescript
+Stuff I plan to learn: Sass, Three.js, GSAP, Redux
 
 
 
 ## 👁 Plans
 Projects I plan on making:
 
-1. eCommerce app with React and GraphQL => <in_progress>
+1. eCommerce app with Next.js and GraphQL => <in_progress>
 2. Chat app with React, Node and MongoDB
 3. Job Scraper with Next.js
 4. Self Love reminder with React Native
