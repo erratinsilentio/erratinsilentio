@@ -22,6 +22,8 @@ Projects I plan on making:
 4. Self Love reminder with React Native
 5. Soul Journal with Next.js, Node.js, MongoDB, Prisma
 
+Also on my list - Rust and Solidity for the backend!
+
 Let's look into the future!
 
 
