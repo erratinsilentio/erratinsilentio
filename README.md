@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL](https://www.linkedin.com/in/kacper-kondracki-0619a3245/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+<div id="badges-two" align="center">
+  <img src="https://komarev.com/ghpvc/?username=erratinsilentio&style=flat-square&color=blue" align="center" alt=""/>
+
+</div>
+
 
 ## 🚀 About Me
 
@@ -10,6 +26,7 @@
 <img width=400 src="https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif?cid=ecf05e473b77ii26kqz6dxqvmvl3ydedjd8z6rf3i87zk14e&rid=giphy.gif&ct=g" />
 ...I'll figure this out!
 
+
 ----------------------------
 
 ## 🛠 Skills I practice...
@@ -20,15 +37,12 @@
 ----------------------------
 
 ## 👁 Plans for the future
-Projects I plan on making:
 
-* eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
-* Chat app with React, Node and MongoDB
-* Job Scraper with Next.js
-* Self Love reminder with React Native
-* Soul Journal with Next.js, Node.js, MongoDB, Prisma
-
-Also on my list - Rust and Solidity for the backend!
+* [ ] eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
+* [ ] Chat app with React, Node and MongoDB
+* [ ] Job Scraper with Next.js
+* [ ] Self Love reminder with React Native
+* [ ] Soul Journal with Next.js, Node.js, MongoDB, Prisma
 
 ----------------------------
 
@@ -38,9 +52,4 @@ Let's look into the future!
 
 -----------------------------
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://erratinsilentio.github.io/blog/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/notifications/)
-
-----------------------------
 
