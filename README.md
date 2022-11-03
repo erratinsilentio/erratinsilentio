@@ -1,7 +1,11 @@
 
 ## 🚀 About Me
-&nbsp;I'm a beginner full stack developer, I study using The Odin Project and Full Stack Open, as well as other external sources. My goal is to create apps that help with mental health and personal development. I am also interested in web3 development!
 
+* Beginner Fullstack Developer 🌱
+* Currently studying Next.js & Typescript ✌️
+* Interested in Web3 and Blockchain technology 🔥
+* Always hungry and passionate! 🌞
+* Moving forward at a steady pace... 🌎
 
 
 ## 🛠 Skills I practice...
@@ -13,13 +17,15 @@
 ## 👁 Plans
 Projects I plan on making:
 
-* eCommerce app with Next.js and GraphQL => <in_progress>
+* eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
 * Chat app with React, Node and MongoDB
 * Job Scraper with Next.js
 * Self Love reminder with React Native
 * Soul Journal with Next.js, Node.js, MongoDB, Prisma
 
 Also on my list - Rust and Solidity for the backend!
+
+----------------------------
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=erratinsilentio&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
