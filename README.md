@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-&nbsp;I'm a beginner full stack developer, I study using The Odin Project and Full Stack Open, as well as other external sources. My goal is to create apps that help with mental health and personal development. And of course to have fun!
+&nbsp;I'm a beginner full stack developer, I study using The Odin Project and Full Stack Open, as well as other external sources. My goal is to create apps that help with mental health and personal development. I am also interested in web3 development!
 
 
 
@@ -26,7 +26,7 @@ Also on my list - Rust and Solidity for the backend!
 
 Let's look into the future!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=erratinsilentio)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=erratinsilentio&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://erratinsilentio.github.io/blog/)
