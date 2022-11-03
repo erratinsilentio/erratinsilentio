@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=erratinsilentio&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&stroke=D8B4FE&fontColor=000000&strokeWidth=0.75"/>
+</p>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e47yi8w32siqt9hooki0pa3bs2zkzkq8ruemy5xv37m&rid=giphy.gif&ct=g" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL](https://www.linkedin.com/in/kacper-kondracki-0619a3245/">
@@ -17,11 +21,15 @@
 
 ## 🚀 About Me
 
-* Beginner Fullstack Developer 🌱
-* Currently studying Next.js & Typescript ✌️
-* Interested in Web3 and Blockchain technology 🔥
-* Always hungry and passionate! 🌞
-* Moving forward at a steady pace... 🌎
+#### I am a Beginner & Self-taught Fullstack Developer from 🇵🇱 Poland
+
+
+* 🌱 Currently studying Next.js & Typescript  
+
+
+* 🔥 Interested in Web3 and Blockchain technology 
+* 🌞 Always hungry and passionate! 
+* 🌎 Moving forward at a steady pace... 
 
 <img width=400 src="https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif?cid=ecf05e473b77ii26kqz6dxqvmvl3ydedjd8z6rf3i87zk14e&rid=giphy.gif&ct=g" />
 ...I'll figure this out!
@@ -39,6 +47,8 @@
 ## 👁 Plans for the future
 
 * [ ] eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
+
+
 * [ ] Chat app with React, Node and MongoDB
 * [ ] Job Scraper with Next.js
 * [ ] Self Love reminder with React Native
@@ -52,4 +62,6 @@ Let's look into the future!
 
 -----------------------------
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&&section=footer&color=gradient&height=100&fontSize=40&stroke=D8B4FE&fontColor=000000&strokeWidth=0.75"/>
+</p>
