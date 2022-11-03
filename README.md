@@ -19,7 +19,7 @@
 
 ----------------------------
 
-## 👁 Plans
+## 👁 Plans for the future
 Projects I plan on making:
 
 * eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
