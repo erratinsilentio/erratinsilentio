@@ -13,17 +13,17 @@
 ## 👁 Plans
 Projects I plan on making:
 
-1. eCommerce app with Next.js and GraphQL => <in_progress>
-2. Chat app with React, Node and MongoDB
-3. Job Scraper with Next.js
-4. Self Love reminder with React Native
-5. Soul Journal with Next.js, Node.js, MongoDB, Prisma
+* eCommerce app with Next.js and GraphQL => <in_progress>
+* Chat app with React, Node and MongoDB
+* Job Scraper with Next.js
+* Self Love reminder with React Native
+* Soul Journal with Next.js, Node.js, MongoDB, Prisma
 
 Also on my list - Rust and Solidity for the backend!
 
-Let's look into the future!
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=erratinsilentio&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+Let's look into the future!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://erratinsilentio.github.io/blog/)
