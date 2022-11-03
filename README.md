@@ -56,12 +56,12 @@
 
 ----------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erratinsilentio&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-Let's look into the future!
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=erratinsilentio&theme=github-dark&hide_border=true"/>
+</p>
 
 -----------------------------
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&&section=footer&color=gradient&height=100&fontSize=40&stroke=D8B4FE&fontColor=000000&strokeWidth=0.75"/>
+  <img src="https://capsule-render.vercel.app/api?&text=let's%20look%20into%20the%20future%20together!&animation=fadeIn&type=waving&&section=footer&color=gradient&height=100&fontSize=30&stroke=000000&fontColor=cbd5e1&strokeWidth=0.75"/>
 </p>
