@@ -48,7 +48,7 @@
 
 * [ ] eCommerce app with Next.js, GraphQL and MongoDB 🛠🔜
 
-* [ ] Web3 todo dapp with Next.js, Typescript and Solidity 🛠🔜
+* [x] <a href="https://github.com/erratinsilentio/web3-todo">Web3 todo dapp with Next.js, Typescript and Solidity</a>
 * [ ] Chat app with React, Node and MongoDB
 * [ ] Job Scraper with Next.js
 * [ ] Self Love reminder with React Native
