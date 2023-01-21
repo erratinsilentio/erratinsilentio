@@ -46,13 +46,14 @@
 
 ## 👁 Plans for the future
 
-* [ ] <a href="https://github.com/erratinsilentio/OnlyCats">eCommerce app with Next.js, GraphQL and MongoDB</a> 🛠🔜
-
+* [x] <a href="https://github.com/erratinsilentio/Orders">Payment Management App with React, Typescript, Redux & Supabase</a>
+* [ ] <a href="https://github.com/erratinsilentio/enzym">Portfolio Site for my friend with Next.js, Typescript, Tailwind && Spline3d</a>
 * [x] <a href="https://github.com/erratinsilentio/web3-todo">Web3 todo dapp with Next.js, Typescript and Solidity</a>
-* [ ] Chat app with React, Node and MongoDB
+* [ ] <a href="https://github.com/erratinsilentio/OnlyCats">eCommerce app with Next.js, GraphQL and MongoDB</a> 
+* [ ] Soul Journal with Next.js & Typescript
+* [ ] Chat app with React
 * [ ] Job Scraper with Next.js
 * [ ] Self Love reminder with React Native
-* [ ] Soul Journal with Next.js, Node.js, MongoDB, Prisma
 
 ----------------------------
 
