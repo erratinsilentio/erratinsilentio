@@ -21,18 +21,13 @@
 
 ## 🚀 About Me
 
-#### I am a Beginner & Self-taught Fullstack Developer from 🇵🇱 Poland
+#### I am a Junior Frontend Developer from 🇵🇱 Poland
 
 
 * 🌱 Currently studying Next.js & Typescript  
-
-
-* 🔥 Interested in Web3 and Blockchain technology 
+* 🔥 Interested in Web3 and Blockchain technology (and many more)
 * 🌞 Always hungry and passionate! 
-* 🌎 Moving forward at a steady pace... 
-
-<img width=400 src="https://media.giphy.com/media/1NUQPdYpAnRtuETV16/giphy.gif" />
-...I'll figure this out!
+* 🌎 Steady moving forward 
 
 
 ----------------------------
