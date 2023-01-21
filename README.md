@@ -31,7 +31,7 @@
 * 🌞 Always hungry and passionate! 
 * 🌎 Moving forward at a steady pace... 
 
-<img width=400 src="https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif?cid=ecf05e473b77ii26kqz6dxqvmvl3ydedjd8z6rf3i87zk14e&rid=giphy.gif&ct=g" />
+<img width=400 src="https://media.giphy.com/media/1NUQPdYpAnRtuETV16/giphy.gif" />
 ...I'll figure this out!
 
 
