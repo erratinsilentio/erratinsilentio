@@ -43,9 +43,7 @@
 
 * [x] <a href="https://github.com/erratinsilentio/Soul-Journal-">Soul Journal with Next.js, Typescript, Redux & Supabase</a>
 * [x] <a href="https://github.com/erratinsilentio/Orders">Payment Management App with React, Typescript, Redux & Supabase</a>
-* [ ] <a href="https://github.com/erratinsilentio/enzym">Portfolio Site for my friend with Svelte</a>
-* [x] <a href="https://github.com/erratinsilentio/web3-todo">Web3 todo dapp with Next.js, Typescript and Solidity</a>
-* [ ] <a href="https://github.com/erratinsilentio/OnlyCats">eCommerce app with Next.js, GraphQL and MongoDB</a> 
+* [ ] <a href="https://github.com/erratinsilentio/routine-tracker">Workout Tracker with Vue.js, Typescript & Supabase</a> 
 * [ ] Self Love reminder with React Native
 
 ----------------------------
