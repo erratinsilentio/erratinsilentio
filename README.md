@@ -24,7 +24,7 @@
 #### I am a Junior Frontend Developer from 🇵🇱 Poland
 
 
-* 🌱 Currently studying Next.js & Typescript  
+* 🌱 Currently studying Backend technologies - to become fullstack in the future
 * 🔥 Interested in Web3 and Blockchain technology (and many more)
 * 🌞 Always hungry and passionate! 
 * 🌎 Steady moving forward 
