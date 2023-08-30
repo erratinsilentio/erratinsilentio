@@ -44,7 +44,7 @@
 
 * [x] <a href="https://github.com/erratinsilentio/Soul-Journal-">Soul Journal with Next.js, Typescript, Redux & Supabase</a>
 * [x] <a href="https://github.com/erratinsilentio/Orders">Payment Management App with React, Typescript, Redux & Supabase</a>
-* [ ] <a href="https://github.com/erratinsilentio/routine-tracker">Workout Tracker with Vue.js, Typescript & Supabase</a> 
+* [x] <a href="https://github.com/erratinsilentio/routine-tracker">Workout Tracker with Vue.js, Typescript & Supabase</a> 
 * [ ] Self Love reminder with React Native
 
 ----------------------------
