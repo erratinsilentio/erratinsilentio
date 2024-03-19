@@ -24,9 +24,9 @@
 #### I am a Junior Frontend Developer from 🇵🇱 Poland
 
 
-* 🌱 Working on the frontend
+* 🛠 Working on the frontend
 * 🔥 learning backend using Go
-* 🌞 Always hungry and passionate! 
+* 👁 Always hungry and passionate! 
 * 🌎 Steady moving forward 
 
 
