@@ -3,7 +3,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYzM3RwOGY5MXN6cHBwd2t4eTR0MjZidnU0NWx5OWZyNjc3ejlrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bh5vjSwrmmUiWc/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYzM3RwOGY5MXN6cHBwd2t4eTR0MjZidnU0NWx5OWZyNjc3ejlrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bh5vjSwrmmUiWc/giphy.gif" />
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL](https://www.linkedin.com/in/kacper-kondracki-0619a3245/">
