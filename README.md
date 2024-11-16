@@ -43,7 +43,7 @@
 
 * [x] <a href="https://github.com/erratinsilentio/Soul-Journal-">Soul Journal with Next.js, Typescript, Redux & Supabase</a>
 * [x] <a href="https://github.com/erratinsilentio/routine-tracker">Workout Tracker with Vue.js, Typescript & Supabase</a> 
-* [ ] <a href="https://github.com/erratinsilentio/Astro-Portfolio-Template">Astro Pofrtolio Template with Astro, Typescript & Tailwind</a>
+* [ ] <a href="https://github.com/erratinsilentio/Astro-Portfolio-Template">Astro Portfolio Template with Astro, Typescript & Tailwind</a>
 * [ ] <a href="https://github.com/erratinsilentio/AI-Tarot-Reader">AI Tarot Reader with Next.js, Tailwind & Upstash</a> 
 * [ ] <a href="https://github.com/erratinsilentio/SoundShare">SoundShare with Next.js, Tailwind & Trpc</a>
 
