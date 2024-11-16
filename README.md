@@ -25,9 +25,9 @@
 
 
 * 🛠 Working on the frontend
-* 🔥 learning backend using Go
-* 👁 Always hungry and passionate! 
-* 🌎 Steady moving forward 
+* 🔥 Learning backend to become fullstack
+* 🚀 Coding is my passion!
+* 🌎 Currently developing SoundShare.live
 
 
 ----------------------------
@@ -42,10 +42,10 @@
 ## 👁 Plans for the future
 
 * [x] <a href="https://github.com/erratinsilentio/Soul-Journal-">Soul Journal with Next.js, Typescript, Redux & Supabase</a>
-* [x] <a href="https://github.com/erratinsilentio/Orders">Payment Management App with React, Typescript, Redux & Supabase</a>
 * [x] <a href="https://github.com/erratinsilentio/routine-tracker">Workout Tracker with Vue.js, Typescript & Supabase</a> 
-* [ ] <a href="https://github.com/erratinsilentio/SpeedCalc">Running Speed Conversion CLI made with Go</a> 
-* [ ] Self Love reminder with React Native
+* [ ] <a href="https://github.com/erratinsilentio/Astro-Portfolio-Template">Astro Pofrtolio Template with Astro, Typescript & Tailwind</a>
+* [ ] <a href="https://github.com/erratinsilentio/AI-Tarot-Reader">AI Tarot Reader with Next.js, Tailwind & Upstash</a> 
+* [ ] <a href="https://github.com/erratinsilentio/SoundShare">SoundShare with Next.js, Tailwind & Trpc</a>
 
 ----------------------------
 
